@@ -14,6 +14,7 @@ body {
  font-family:'Open Sans', sans-serif;
  color:#5a5a5a;
 }
+
 #container {
  width: 980px;
  margin: 0 auto;
@@ -47,27 +48,29 @@ nav {
     background-color: #2b83ea;
    }
 
-   /* Hero Panel */
+/* Hero Panel */
 #hero {
     background-color: #e4e4e5;
     padding: 50px 20px;
     margin-bottom: 20px;
-   }
-   #hero h1 {
+}
+
+#hero h1 {
     margin-bottom: 20px;
     font-size: 35px;
-   }
-   #hero p {
+}
+
+#hero p {
     margin-bottom: 20px;
     font-size: 18px;
     line-height: 25px;
    }
 
-   /* main content */
+    /* main content */
 #wrapper {
     margin: 0;
-   }
-   #main {
+    }
+    #main {
     float: left;
     width: 640px;
     padding: 20px;
@@ -80,42 +83,42 @@ nav {
     padding: 20px;
    }
 
-   /* widget */
+    /* widget */
 .widget-box {
     border:1px solid #eee;
     margin-bottom:20px;
-   }
-   .widget-box .title {
+    }
+.widget-box .title {
     padding:10px 16px;
     background-color:#428bca;
     color:#fff;
-   }
-   .widget-box ul {
+}
+.widget-box ul {
     list-style-type:none;
    }
-   .widget-box li {
+.widget-box li {
     border-bottom:1px solid #eee;
-   }
-   .widget-box li a {
-    padding:10px 16px;
-    color:#333;
-    display:block;
-    text-decoration:none;
-   }
-   .widget-box li:hover a {
-    background-color:#eee;
-   }
-   .widget-box p {
-    padding:15px;
-    line-height:25px;
-   }
-   /* footer */
+}
+.widget-box li a {
+ padding:10px 16px;
+ color:#333;
+ display:block;
+ text-decoration:none;
+}
+.widget-box li:hover a {
+ background-color:#eee;
+}
+.widget-box p {
+ padding:15px;
+ line-height:25px;
+}
+/* footer */
 footer {
     clear:both;
     background-color:#1d1d1d;
     padding:20px;
     color:#eee;
-    }
+   }
 /* box */
 .box {
     display:block;
@@ -125,7 +128,7 @@ footer {
     -moz-box-sizing:border-box;
     -webkit-box-sizing:border-box;
     padding:0 10px;
-    text-align:center;
+ text-align:center;
 }
 .box h3 {
  margin: 15px 0;
@@ -157,8 +160,6 @@ box img {
 .entry:after {
  clear:both;
 }
-
-
 .divider {
     border:0;
     border-top:1px solid #eeeeee;
@@ -170,21 +171,19 @@ box img {
    }
    .entry h2 {
     margin-bottom: 20px;
-   }
-
-   .entry p {
-    line-height: 25px;
-   }
-   .entry img {
-    float: left;
-    border-radius: 5px;
-    margin-right: 15px;
-   }
-   .entry .right-img {
-    float: right;
-   }
-
-   /* About Panel */
+}
+.entry p {
+ line-height: 25px;
+}
+.entry img {
+ float: left;
+ border-radius: 5px;
+ margin-right: 15px;
+}
+.entry .right-img {
+ float: right;
+}
+/* About Panel */
 #about{
     background-color: #e4e4e5;
     padding: 50px 20px;
@@ -204,7 +203,6 @@ box img {
     position: relative;
     left: 15px;
 }
-
 /* Kontak Panel */
 #kontak{
     background-color: #e4e4e5;

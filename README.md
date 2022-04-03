@@ -1,4 +1,8 @@
 # Lab4Web
+
+## Nama : Arip Hidayattuloh
+## Nim  : 312010244
+## Kelas : TI.20.B.1
 Instruksi Praktikum
 1. Persiapkan text editor misalnya VSCode.
 2. Buat folder baru dengan nama Lab4Web

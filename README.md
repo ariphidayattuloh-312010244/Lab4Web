@@ -8,17 +8,17 @@ Langkah-langkah Praktikum
 Persiapan membuat dokumen HTML dengan nama file lab4_box.html seperti berikut.
 
 
-![Gambar1](Screenshot/ss1.png) 
+![Gambar1](screenshot/ss1.png) 
 
 ## Membuat Box Element
  Kemudian tambahkan kode untuk membuat box element dengan tag div seperti berikut.
 
-![Gambar1](Screenshot/ss2.png) 
+![Gambar1](screenshot/ss2.png) 
 
 ## CSS Float Property
  Selanjutnya tambahkan deklarasi CSS pada head untuk membuat float element, seperti berikut.
 
-![Gambar1](Screenshot/ss3.png) 
+![Gambar1](screenshot/ss3.png) 
 
 ## Mengatur Clearfix Element Clearfix 
  digunakan untuk mengatur element setelah float element. Property clear digunakan untuk

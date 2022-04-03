@@ -82,7 +82,7 @@ Selanjutnya membuat hero panel. Tambahkan kode HTML dan CSS seperti berikut
 
 Selanjutnya mengatur main content dan sidebar, tambahkan CSS float
 
-![Gambar1](screenshot/ss26.png)
+![Gambar1](screenshot/ss27.png)
 
 Membuat Sidebar Widget
 Kemudian selanjutnya menambahkan element lain dalam sidebar
@@ -112,7 +112,7 @@ Kemudian tambahkan CSS.
 
 Lihat hasilnya dibrowser
 
-![Gambar1](screenshot/ss22.png)
+![Gambar1](screenshot/ss28.png)
 
 ## Menambahkan Content Artikel
 
@@ -124,7 +124,7 @@ Kemudian tambahkan CSS
 
 ![Gambar1](screenshot/ss24.png)
 
-![Gambar1](screenshot/ss25.png)
+![Gambar1](screenshot/ss29.png)
 
 ## Pertanyaan dan Tugas
 
